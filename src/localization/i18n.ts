@@ -11,11 +11,11 @@ i18n.use(initReactI18next).init({
         titleSecondPage: "Second Page",
       },
     },
-    "pt-BR": {
+    "zh-CN": {
       translation: {
         appName: "electron-shadcn",
-        titleHomePage: "Página Inicial",
-        titleSecondPage: "Segunda Página",
+        titleHomePage: "首页",
+        titleSecondPage: "第二页",
       },
     },
   },
